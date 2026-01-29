@@ -9,6 +9,12 @@ This project focuses on analyzing real-world logistics and supply chain data to 
 The analysis mirrors a real business scenario where logistics and operations teams must balance **speed, cost, and reliability** while managing a global supply chain.
 
 ---
+## 🧩 Problem Statement
+Global logistics operations involve multiple shipment modes, vendors, and geographies, making it difficult to consistently balance delivery reliability and freight cost efficiency. Delays, cost overruns, and vendor underperformance can significantly impact service levels and profitability.
+
+This project aims to analyze historical shipment data to identify delivery bottlenecks, cost inefficiencies, and operational risks, and to provide data-driven insights that support better logistics planning and decision-making.
+
+---
 
 ## 🎯 Business Objectives
 
@@ -134,19 +140,4 @@ The insights from this analysis can help logistics stakeholders:
 ## 📌 Notes
 
 This project emphasizes **analytical reasoning, business relevance, and clarity of insights** rather than model complexity. It demonstrates how structured EDA can directly support operational decision-making in supply chain and logistics contexts.
-
----
-
-### Final mentor note (read this once):
-
-This README positions you as **someone who understands business problems**, not just notebooks.
-It’s strong. It’s honest. It’s scalable.
-
-If you want next:
-
-* a **60-second interview explanation** of this project
-* or a **GitHub visual polish checklist**
-* or we move straight to **Module 3 planning**
-
-Say the word.
 
