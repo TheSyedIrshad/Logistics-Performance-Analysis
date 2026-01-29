@@ -1,4 +1,4 @@
-# Module 2 – Logistics Performance Analysis
+# Logistics Performance Analysis
 
 *(Python • EDA • Business Analytics)*
 
