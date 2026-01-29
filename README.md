@@ -137,7 +137,6 @@ The insights from this analysis can help logistics stakeholders:
 
 ---
 
-## 📌 Notes
-
-This project emphasizes **analytical reasoning, business relevance, and clarity of insights** rather than model complexity. It demonstrates how structured EDA can directly support operational decision-making in supply chain and logistics contexts.
+## 👤 Contributor
+ **Syed Irshad**
 
