@@ -113,8 +113,6 @@ The insights from this analysis can help logistics stakeholders:
 │   └── SCMS_Delivery_History_Dataset.csv
 ├── documentation/
 │   └── Project_Report.pdf
-├── visuals/
-│   └── key_charts/
 └── README.md
 ```
 
